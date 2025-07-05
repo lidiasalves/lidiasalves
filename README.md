@@ -1,4 +1,4 @@
-<h1 align="center">Lídia Alves 🤖</h1>
+# Oie, meu nome é Lídia! 🤖
 
 
 ## 🧠 Sobre mim
