@@ -1,4 +1,4 @@
-# Oie, meu nome é Lídia! 🤖
+## Oie, meu nome é Lídia! 🤖
 
 
 ## 🧠 Sobre mim
@@ -48,4 +48,4 @@
 
 ## ☕ Bora conversar?
 
-Adoro trocar ideias sobre educação e tecnologia! Me chama ali no [LinkedIn](https://www.linkedin.com/in/lidia-silveira/) ou manda um [email](mailto:lisilveir@outlook.com)!  
+Me chama ali no [LinkedIn](https://www.linkedin.com/in/lidia-silveira/) ou manda um [email](mailto:lisilveir@outlook.com)!  
