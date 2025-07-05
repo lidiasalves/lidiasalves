@@ -1,4 +1,4 @@
-## Oie, meu nome é Lídia! 🤖
+## 🤖 Oie, meu nome é Lídia!
 
 
 ## 🧠 Sobre mim
