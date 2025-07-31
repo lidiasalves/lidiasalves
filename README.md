@@ -29,9 +29,9 @@
 ## 🧩 Áreas de Interesse
 
 - Front-end com React e UI/UX  
-- Desenvolvimento Mobile (iOS com Swift)  
-- Segurança para Desenvolvimento
-- Machine Learning
+- Desenvolvimento Mobile com Swift para iOS  
+- Cibersegurança
+- IA aplicada: LLMs, Agentes Autônomos e IA Generativa
 - Educação e Tecnologias Sociais  
 
 ---
